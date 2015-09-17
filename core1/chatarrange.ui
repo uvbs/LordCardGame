@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>chatarrange</class>
+ <widget class="QWidget" name="chatarrange">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>181</width>
+    <height>41</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Form</string>
+  </property>
+  <widget class="QPushButton" name="pushButton">
+   <property name="geometry">
+    <rect>
+     <x>100</x>
+     <y>10</y>
+     <width>75</width>
+     <height>23</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>监听</string>
+   </property>
+  </widget>
+  <widget class="QComboBox" name="comboBox">
+   <property name="geometry">
+    <rect>
+     <x>10</x>
+     <y>10</y>
+     <width>75</width>
+     <height>22</height>
+    </rect>
+   </property>
+   <item>
+    <property name="text">
+     <string>房间1</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>房间2</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>房间3</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>房间4</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>房间5</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>房间6</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>房间7</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>房间8</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>房间9</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>房间10</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>房间11</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>房间12</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>房间13</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>房间14</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>房间15</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>房间16</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>房间17</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>房间18</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>房间19</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>房间20</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>房间21</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>房间22</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>房间23</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>房间24</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>房间25</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>房间26</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>房间27</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>房间28</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>房间29</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>房间30</string>
+    </property>
+   </item>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
